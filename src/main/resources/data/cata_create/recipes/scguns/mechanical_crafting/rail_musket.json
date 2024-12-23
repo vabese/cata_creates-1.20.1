@@ -1,0 +1,28 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": true,
+  "key": {
+    "Q": {
+      "item": "scguns:gun_grip"
+    },
+    "C": {
+      "item": "scguns:energy_core"
+    },
+    "L": {
+      "item": "scguns:nether_star_fragment"
+    },
+    "R": {
+      "item": "minecraft:smooth_stone"
+    },
+    "S": {
+      "item": "scguns:stone_gun_barrel"
+    }
+  },
+  "pattern": [
+    "LRSS ",
+    "Q C  "
+  ],
+  "result": {
+    "item": "cata_create:rail_musket"
+  }
+}

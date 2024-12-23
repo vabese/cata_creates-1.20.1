@@ -1,0 +1,28 @@
+{
+  "type": "crafting_shapeless",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "deeperdarker"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "dragonsurvival"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "minecraft:glowstone_dust"
+    },
+    {
+      "item": "minecraft:glow_ink_sac"
+    },
+    {
+      "item": "deeperdarker:bloom_berries"
+    }
+  ],
+  "result": {
+    "item": "dragonsurvival:luminous_ointment",
+    "count": 1
+  }
+}
